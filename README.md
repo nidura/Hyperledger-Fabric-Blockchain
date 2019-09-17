@@ -19,4 +19,8 @@ After this command is executed successfully, just check if everything is running
 
      docker ps
 
+# Chain code install using hyperlder composer(.ban file)
+    
+    .................
+
 
