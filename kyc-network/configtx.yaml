@@ -25,15 +25,15 @@ Profiles:
             Capabilities:
                 <<: *ApplicationCapabilities
     
-    ChannelTwo:
-        Consortium: SampleConsortium
-        Application:
-            <<: *ApplicationDefaults
-            Organizations:
-                - *Org2
+    # ChannelTwo:
+    #     Consortium: SampleConsortium
+    #     Application:
+    #         <<: *ApplicationDefaults
+    #         Organizations:
+    #             - *Org2
                 
-            Capabilities:
-                <<: *ApplicationCapabilities
+    #         Capabilities:
+    #             <<: *ApplicationCapabilities
 
 
 Organizations:
